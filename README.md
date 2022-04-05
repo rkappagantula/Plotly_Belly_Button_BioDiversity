@@ -15,4 +15,8 @@ This project consisted on creating a dashboard that displayed information about 
 
 
 ## Results
-The final result was an interactive
+The final result is an interactive dashboard built using javascript, plotly and HTML/CSS
+https://rkappagantula.github.io/Plotly_Belly_Button_BioDiversity/
+
+![image](https://user-images.githubusercontent.com/96051648/161655083-261a85f6-d052-405e-a31e-e246b6e2ec0e.png)
+
